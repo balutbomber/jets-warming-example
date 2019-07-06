@@ -1,6 +1,6 @@
 # jets-warming-example
 
-Please see [Jets Community Forum](https://community.rubyonjets.com/t/prewarm-function-guesses-errors/206/4) for so more context.
+Please see [Jets Community Forum](https://community.rubyonjets.com/t/prewarm-function-guesses-errors/206/4) for some more context.
 
 
 This example project has a couple lambda functions in it which I used to looked at the warming function guesser functionality.
